@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+ <title>Watt Else ? Le podcast</title><link>https://wattelsefr.github.io/</link><language>fr</language>
+ <atom:link href="https://wattelsefr.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+ <description>L'électricité de la maison expliquée simplement… et avec le sourire : Tempo, heures creuses, chauffage, solaire, facture. Des chiffres officiels, des gestes concrets. Voix réalisées avec l'aide de l'IA.</description>
+ <itunes:author>Watt Else ?</itunes:author><itunes:owner><itunes:name>Watt Else ?</itunes:name><itunes:email>wattelseproduction.studio@gmail.com</itunes:email></itunes:owner>
+ <itunes:image href="https://wattelsefr.github.io/podcast/pochette.jpg"/><itunes:category text="Education"/><itunes:category text="Leisure"><itunes:category text="Home &amp; Garden"/></itunes:category>
+ <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
+  <item><title>Tempo jour rouge : le kWh à 70 centimes, comment l&#x27;éviter</title><description>Jour rouge Tempo demain : comment ne pas voir sa facture d&#x27;électricité s&#x27;envoler ? Le kilowattheure passe à environ 70 centimes en heures pleines, de 6 h à 22 h, contre environ 16 centimes en heures creuses, de 22 h à 6 h.
+On t&#x27;explique l&#x27;option Tempo du tarif réglementé : jours bleus, blancs et rouges, heures pleines et heures creuses.
+Le geste de la veille : décaler lave-linge et sèche-linge au lieu de se priver. Comment baisser sa facture d&#x27;électricité sans grelotter.
+Pour comparer les offres, le comparateur officiel du médiateur de l&#x27;énergie est la référence neutre.
+
+⚡ La météo du courant chaque soir sur Telegram : t.me/wattelsefr
+
+⏱️ Chapitres
+0:00 Demain, 5 fois plus cher
+0:29 Le piège du jour rouge
+1:55 Comment marche Tempo
+4:09 Les vrais chiffres en euros
+7:01 Ce que tu fais dès ce soir
+9:41 Le mot de la fin
+
+📚 Sources
+• ADEME, mesures « Consommation électrique annuelle des appareils domestiques » (Licence Ouverte) (2025-02-12) : https://data.ademe.fr/datasets/3gxeeilhd94k3mdkucjnff1t
+• CRE – Comprendre les TRVE (barème Tempo) (2026-01-20) : https://www.cre.fr/consommateurs/comprendre-les-tarifs-reglementes-de-vente-delectricite-trve.html
+• CRE – Comprendre les TRVE (calcul interne) (2026-01-20) : https://www.cre.fr/consommateurs/comprendre-les-tarifs-reglementes-de-vente-delectricite-trve.html
+• CRE – Comprendre les tarifs réglementés de vente d&#x27;électricité (TRVE) (2026-01-20) : https://www.cre.fr/consommateurs/comprendre-les-tarifs-reglementes-de-vente-delectricite-trve.html
+• CRE – La CRE décide de faire évoluer la méthode de sélection des jours rouges Tempo (2026-10-22) : https://www.cre.fr/actualites/toute-lactualite/la-cre-decide-de-faire-evoluer-la-methode-de-selection-des-jours-rouges-tempo.html
+• CRE, open data (option HP/HC) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_HPHC.csv
+• CRE, open data (option Tempo) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_Tempo.csv
+• CRE, open data des tarifs réglementés (option Base) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_Base.csv
+• Faits fournis par la production (ADEME/open data, déjà vérifiés) (2026-11-07) : https://www.cre.fr/consommateurs/comprendre-les-tarifs-reglementes-de-vente-delectricite-trve.html
+• RTE, règles du calendrier Tempo (consultée le 2026-11-07) : https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/calendrier-des-offres-de-fourniture-de-type-tempo.html
+• service-public.gouv.fr – Tarifs de l&#x27;énergie : ce qui change au 1er août (consultée le 2026-11-07) : https://www.service-public.gouv.fr/particuliers/actualites/A18776
+• énergie-info (médiateur national de l&#x27;énergie) – Calendrier Tempo 2026-2027 (2026-10-09) : https://www.energie-info.fr/offre-type-tempo-calendrier-2026-2027/
+
+🎵 Musique : « Monkeys Spinning Monkeys » Kevin MacLeod (incompetech.com) — Licence CC BY 4.0 : creativecommons.org/licenses/by/4.0/
+Icônes : Fluent Emoji (Microsoft, MIT).
+Voix et animations réalisées avec l&#x27;aide de l&#x27;IA. Chaîne indépendante, liée à aucun fournisseur. Pour comparer les offres : comparateur officiel du médiateur national de l&#x27;énergie (energie-info.fr).
+
+La vidéo : https://youtu.be/sVKwO6-IPlI</description>
+   <enclosure url="https://wattelsefr.github.io/podcast/episodes/longue_jour-rouge-tempo-survivre-sans-se-ruiner.mp3" length="7602529" type="audio/mpeg"/>
+   <guid isPermaLink="false">wattelse-15</guid><pubDate>Sat, 07 Nov 2026 19:05:48 +0000</pubDate>
+   <itunes:duration>00:10:33</itunes:duration><itunes:explicit>false</itunes:explicit><link>https://youtu.be/sVKwO6-IPlI</link></item>
+</channel></rss>
