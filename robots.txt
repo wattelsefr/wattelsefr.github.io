@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wattelsefr.github.io/sitemap.xml
