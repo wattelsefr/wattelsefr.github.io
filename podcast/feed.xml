@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
  <title>Watt Else ? Le podcast</title><link>https://wattelsefr.github.io/</link><language>fr</language>
  <atom:link href="https://wattelsefr.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -43,5 +43,5 @@ Voix et animations réalisées avec l&#x27;aide de l&#x27;IA. Chaîne indépenda
 La vidéo : https://youtu.be/sVKwO6-IPlI</description>
    <enclosure url="https://wattelsefr.github.io/podcast/episodes/longue_jour-rouge-tempo-survivre-sans-se-ruiner.mp3" length="7602529" type="audio/mpeg"/>
    <guid isPermaLink="false">wattelse-15</guid><pubDate>Sat, 07 Nov 2026 19:05:48 +0000</pubDate>
-   <itunes:duration>00:10:33</itunes:duration><itunes:explicit>false</itunes:explicit><link>https://youtu.be/sVKwO6-IPlI</link></item>
+   <itunes:duration>00:10:33</itunes:duration><itunes:explicit>false</itunes:explicit><link>https://youtu.be/sVKwO6-IPlI</link><podcast:transcript url="https://wattelsefr.github.io/podcast/episodes/longue_jour-rouge-tempo-survivre-sans-se-ruiner.vtt" type="text/vtt" language="fr"/></item>
 </channel></rss>
