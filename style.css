@@ -176,7 +176,7 @@ details .dedans{padding:0 22px 20px}
 .pied a{color:var(--texte-2);text-decoration:none}.pied a:hover{color:var(--jaune)}
 .pied p{color:var(--texte-3)}
 .pied .bas{border-top:1px solid var(--ligne);margin-top:30px;padding-top:20px;color:var(--texte-3);font-size:.86rem;display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px}
-.icones-pied{display:flex;gap:8px;margin-top:14px}
+.icones-pied{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .icones-pied a{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.06);border:1px solid var(--ligne)}
 .icones-pied a:hover{border-color:var(--jaune)}
 .icones-pied svg{width:17px;height:17px;fill:var(--texte-2)}
@@ -214,3 +214,13 @@ details .dedans{padding:0 22px 20px}
   .grille-videos{grid-template-columns:1fr}
   .boutons .btn{flex:1 1 auto}
 }
+
+/* 11/11 : bande de toutes les plateformes sous l'en-tête */
+.bande-reseaux{border-bottom:1px solid var(--ligne);background:rgba(19,35,75,.6)}
+.bande-reseaux .conteneur{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:6px 8px;padding-top:8px;padding-bottom:8px}
+.bande-reseaux span{color:var(--texte-3);font-weight:700;font-size:.85rem;margin-right:4px}
+.bande-reseaux a{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.06);border:1px solid var(--ligne);transition:border-color .15s ease,transform .15s ease}
+.bande-reseaux a:hover{border-color:var(--jaune);transform:translateY(-2px)}
+.bande-reseaux svg{width:16px;height:16px;fill:var(--texte-2)}
+.bande-reseaux a:hover svg{fill:var(--jaune)}
+@media (max-width:520px){.bande-reseaux span{width:100%;text-align:center;margin:0}}
