@@ -1,0 +1,17 @@
+# 14/11/2026 (E32) : sécurité — secrets, sessions, clés, journaux, caches (jamais dans Git)
+.env
+.env.*
+*.session
+*.session-journal
+*.jeton
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.log
+logs/
+__pycache__/
+.pytest_cache/
+venv/
+.venv/
+node_modules/
