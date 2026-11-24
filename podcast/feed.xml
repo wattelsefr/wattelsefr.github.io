@@ -9,6 +9,34 @@
  <itunes:author>Watt Else ?</itunes:author><itunes:owner><itunes:name>Watt Else ?</itunes:name><itunes:email>wattelseproduction.studio@gmail.com</itunes:email></itunes:owner>
  <itunes:image href="https://wattelse.pages.dev/podcast/pochette.jpg"/><itunes:category text="Education"/><itunes:category text="Leisure"><itunes:category text="Home &amp; Garden"/></itunes:category>
  <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
+  <item><title>Voiture électrique : 30 km pour environ 1 € à la maison</title><itunes:title>Voiture électrique : 30 km pour environ 1 € à la maison</itunes:title><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+   <description>30 km, c&#x27;est environ 5 kWh selon le modèle (fiche ADEME Car Labelling d&#x27;une citadine électrique : 14,3 à 16,7 kWh pour 100 km), soit environ 1 € au tarif réglementé Base (0,2001 € TTC le kWh, CRE, 1er août 2026).
+Avec l&#x27;option Heures pleines / Heures creuses, si toute la recharge passe en heures creuses (0,1589 € le kWh au lieu de 0,2142 € en heures pleines) : 654 kWh par an (médiane ADEME) coûtent environ 104 € au lieu de 140 €, soit environ 36 € de moins par an, hors abonnement. Les horaires des heures creuses dépendent de ton contrat : vérifie-les sur ta facture.
+Sécurité : prise murale adaptée, jamais de rallonge ni de multiprise. Tout ce qui touche à la prise, au câble ou au tableau, c&#x27;est le travail d&#x27;un électricien qualifié (norme NF C 15-100).
+Pour choisir une offre : le comparateur officiel du médiateur national de l&#x27;énergie.
+
+Sources :
+• CRE, open data des tarifs réglementés (option Base) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_Base.csv
+• CRE, open data (option HP/HC) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_HPHC.csv
+• CRE, open data (option Tempo) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_Tempo.csv
+• RTE, règles du calendrier Tempo (consultée le 2026-11-22) : https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/calendrier-des-offres-de-fourniture-de-type-tempo.html
+• ADEME, mesures « Consommation électrique annuelle des appareils domestiques » (Licence Ouverte) (2025-02-12) : https://data.ademe.fr/datasets/3gxeeilhd94k3mdkucjnff1t
+• Fait officiel déjà vérifié (fourni par la rédaction) + Service-public.gouv.fr, actualité sur la hausse d&#x27;août 2026 (2026-07-21) : https://www.service-public.gouv.fr/particuliers/actualites/A18776
+• Service-public.gouv.fr, actualité (hausse au 1er août 2026) (2026-07-21) : https://www.service-public.gouv.fr/particuliers/actualites/A18776
+• CRE, communiqué sur la hausse de +2,5 % TTC au 1er août 2026 (2026-07-16) : https://www.cre.fr/actualites/toute-lactualite/la-cre-propose-une-evolution-du-niveau-moyen-des-tarifs-reglementes-de-vente-de-lelectricite-de-25-ttc-au-1er-aout-2026.html
+• ADEME, Car Labelling (fiche Fiat 600e électrique 54 kWh) (consultée le 2026-11-22) : https://carlabelling.ademe.fr/fiche/832/fiat-600e-%C3%83%C2%A9lectrique-54-kwh
+• calcul : fiche ADEME Car Labelling (Fiat 600e) × tarif réglementé Base 6 kVA fourni (0,2001 € TTC le kWh) (consultée le 2026-11-22) : https://carlabelling.ademe.fr/fiche/832/fiat-600e-%C3%83%C2%A9lectrique-54-kwh
+• Ministère de la Transition écologique, « 5 idées reçues sur la voiture électrique » (2026-01-20) : https://www.ecologie.gouv.fr/actualites/5-idees-recues-voiture-electrique
+• ADEME, « Comment choisir sa voiture électrique ? » (non ouverte, 403) (consultée le 2026-11-22) : https://agirpourlatransition.ademe.fr/particuliers/mieux-consommer/mieux-choisir/bien-choisir-voiture-electrique
+• Légifrance, décret n° 2017-26 du 12 janvier 2017, article 3 (2017-01-13) : https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000033860651
+• calcul : décret n° 2017-26 (8 A) × fiche ADEME Car Labelling (16 kWh pour 100 km) (consultée le 2026-11-22) : https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000033860651
+Musique : « Monkeys Spinning Monkeys » Kevin MacLeod (incompetech.com) — Licence CC BY 4.0 : creativecommons.org/licenses/by/4.0/
+Icônes : Fluent Emoji (Microsoft, MIT).
+
+La vidéo : https://youtu.be/bU16RXTJxQc</description><content:encoded><![CDATA[<p>30 km, c&#x27;est environ 5 kWh selon le modèle (fiche ADEME Car Labelling d&#x27;une citadine électrique : 14,3 à 16,7 kWh pour 100 km), soit environ 1 € au tarif réglementé Base (0,2001 € TTC le kWh, CRE, 1er août 2026).</p><p>Sécurité : prise murale adaptée, jamais de rallonge ni de multiprise. Tout ce qui touche à la prise, au câble ou au tableau, c&#x27;est le travail d&#x27;un électricien qualifié (norme NF C 15-100).</p><p>Pour choisir une offre : le comparateur officiel du médiateur national de l&#x27;énergie.</p><p>Icônes : Fluent Emoji (Microsoft, MIT).</p><p>🎬 La vidéo : <a href="https://youtu.be/bU16RXTJxQc">https://youtu.be/bU16RXTJxQc</a><br>📖 Explications, sources et transcription : <a href="https://wattelse.pages.dev/videos/voiture-electrique-30-km-pour-environ-1-a-la-maison.html">wattelse.pages.dev</a><br>⚡ La météo du courant chaque soir : <a href="https://t.me/wattelsefr">t.me/wattelsefr</a></p>]]></content:encoded>
+   <enclosure url="https://wattelse.pages.dev/podcast/episodes/short_recharger-sa-voiture-sur-la-prise-de-la.mp3" length="286465" type="audio/mpeg"/>
+   <guid isPermaLink="false">wattelse-154</guid><pubDate>Tue, 24 Nov 2026 11:30:37 +0000</pubDate>
+   <itunes:duration>00:00:23</itunes:duration><itunes:explicit>false</itunes:explicit><link>https://youtu.be/bU16RXTJxQc</link><podcast:transcript url="https://wattelse.pages.dev/podcast/episodes/short_recharger-sa-voiture-sur-la-prise-de-la.vtt" type="text/vtt" language="fr"/></item>
   <item><title>Linky : suivre ta conso, jusqu&#x27;à 58 € d&#x27;économies par an</title><itunes:title>Linky : suivre ta conso, jusqu&#x27;à 58 € d&#x27;économies par an</itunes:title><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
    <description>Linky mesure la même énergie que l&#x27;ancien compteur. Il ne change ni le prix du kWh (l&#x27;unité de ta facture) ni ton contrat. Son vrai rôle : relever ta consommation à distance pour qu&#x27;elle soit facturée sur du réel, pas sur une estimation.
 Ce soir : appuie sur + ou − sur l&#x27;écran, note ton index et regarde la puissance apparente, c&#x27;est-à-dire ce que ta maison consomme à cet instant (l&#x27;affichage peut varier selon le modèle). Ensuite, ouvre le suivi de consommation dans le compte client de ton gestionnaire de réseau ou de ton fournisseur.
