@@ -9,6 +9,30 @@
  <itunes:author>Watt Else ?</itunes:author><itunes:owner><itunes:name>Watt Else ?</itunes:name><itunes:email>wattelseproduction.studio@gmail.com</itunes:email></itunes:owner>
  <itunes:image href="https://wattelse.pages.dev/podcast/pochette.jpg"/><itunes:category text="Education"/><itunes:category text="Leisure"><itunes:category text="Home &amp; Garden"/></itunes:category>
  <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
+  <item><title>Facture d&#x27;électricité : environ 190 € avant d&#x27;allumer</title><itunes:title>Facture d&#x27;électricité : environ 190 € avant d&#x27;allumer</itunes:title><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+   <description>Ta facture d&#x27;électricité, c&#x27;est deux parts : l&#x27;abonnement (environ 190 € par an au tarif réglementé Base 6 kVA, payé même en vacances) et la consommation (2 926 kWh, la médiane mesurée par l&#x27;ADEME, × 0,2001 € = environ 585 € par an). Taxes comprises : environ 776 € par an, dont à peu près un tiers de taxes et contributions.
+Ce soir : sors ta dernière facture, entoure la puissance en kVA (la puissance souscrite, dont dépend le prix de l&#x27;abonnement), le prix du kWh et les kWh consommés. Divise le total par les kWh : c&#x27;est ton vrai prix au kWh, abonnement compris.
+Puissance trop haute ou option qui ne colle pas à tes habitudes ? Vérifie sur le comparateur officiel du médiateur national de l&#x27;énergie.
+Sources : CRE, open data des tarifs réglementés (en vigueur au 1er août 2026) ; ADEME, mesures de consommation 2023-2024 ; énergie-info (médiateur national de l&#x27;énergie).
+
+Sources :
+• CRE, open data des tarifs réglementés (option Base) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_Base.csv
+• CRE, open data (option HP/HC) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_HPHC.csv
+• CRE, open data (option Tempo) (01/08/2026) : https://www.cre.fr/fileadmin/Documents/Open_data/Marches_de_detail/Option_Tempo.csv
+• RTE, règles du calendrier Tempo (consultée le 2026-11-10) : https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/calendrier-des-offres-de-fourniture-de-type-tempo.html
+• ADEME, mesures « Consommation électrique annuelle des appareils domestiques » (Licence Ouverte) (2025-02-12) : https://data.ademe.fr/datasets/3gxeeilhd94k3mdkucjnff1t
+• Fait officiel déjà vérifié (fourni) + CRE, communiqué du 16/07/2026 pour la hausse et la date (2026-07-16) : https://www.cre.fr/actualites/toute-lactualite/la-cre-propose-une-evolution-du-niveau-moyen-des-tarifs-reglementes-de-vente-de-lelectricite-de-25-ttc-au-1er-aout-2026.html
+• CRE (Commission de régulation de l&#x27;énergie), actualité (2026-07-16) : https://www.cre.fr/actualites/toute-lactualite/la-cre-propose-une-evolution-du-niveau-moyen-des-tarifs-reglementes-de-vente-de-lelectricite-de-25-ttc-au-1er-aout-2026.html
+• énergie-info (médiateur national de l&#x27;énergie) (consultée le 2026-11-10) : https://www.energie-info.fr/fiche_pratique/cspe-ticgn-cta-tva-toutes-les-taxes-sur-ma-facture/
+• énergie-info (médiateur national de l&#x27;énergie) : Prix de l&#x27;électricité et du gaz, que payons-nous ? (consultée le 2026-11-10) : https://www.energie-info.fr/fiche_pratique/prix-de-lelectricite-et-du-gaz-que-payons-nous/
+• Calcul : énergie-info (accise, TVA) + tarif Base fourni (consultée le 2026-11-10) : https://www.energie-info.fr/fiche_pratique/cspe-ticgn-cta-tva-toutes-les-taxes-sur-ma-facture/
+Musique : « Fluffing a Duck » Kevin MacLeod (incompetech.com) — Licence CC BY 4.0 : creativecommons.org/licenses/by/4.0/
+Icônes : Fluent Emoji (Microsoft, MIT).
+
+La vidéo : https://youtu.be/sDa2brmvDM8</description><content:encoded><![CDATA[<p>Puissance trop haute ou option qui ne colle pas à tes habitudes ? Vérifie sur le comparateur officiel du médiateur national de l&#x27;énergie.</p><p>Icônes : Fluent Emoji (Microsoft, MIT).</p><p>🎬 La vidéo : <a href="https://youtu.be/sDa2brmvDM8">https://youtu.be/sDa2brmvDM8</a><br>📖 Explications, sources et transcription : <a href="https://wattelse.pages.dev/videos/facture-d-electricite-environ-190-avant-d-allumer.html">wattelse.pages.dev</a><br>⚡ La météo du courant chaque soir : <a href="https://t.me/wattelsefr">t.me/wattelsefr</a></p>]]></content:encoded>
+   <enclosure url="https://wattelse.pages.dev/podcast/episodes/short_d-crypter-sa-facture-d-lectricit-ligne-p.mp3" length="288193" type="audio/mpeg"/>
+   <guid isPermaLink="false">wattelse-147</guid><pubDate>Wed, 25 Nov 2026 11:30:30 +0000</pubDate>
+   <itunes:duration>00:00:23</itunes:duration><itunes:explicit>false</itunes:explicit><link>https://youtu.be/sDa2brmvDM8</link><podcast:transcript url="https://wattelse.pages.dev/podcast/episodes/short_d-crypter-sa-facture-d-lectricit-ligne-p.vtt" type="text/vtt" language="fr"/></item>
   <item><title>Voiture électrique : 30 km pour environ 1 € à la maison</title><itunes:title>Voiture électrique : 30 km pour environ 1 € à la maison</itunes:title><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
    <description>30 km, c&#x27;est environ 5 kWh selon le modèle (fiche ADEME Car Labelling d&#x27;une citadine électrique : 14,3 à 16,7 kWh pour 100 km), soit environ 1 € au tarif réglementé Base (0,2001 € TTC le kWh, CRE, 1er août 2026).
 Avec l&#x27;option Heures pleines / Heures creuses, si toute la recharge passe en heures creuses (0,1589 € le kWh au lieu de 0,2142 € en heures pleines) : 654 kWh par an (médiane ADEME) coûtent environ 104 € au lieu de 140 €, soit environ 36 € de moins par an, hors abonnement. Les horaires des heures creuses dépendent de ton contrat : vérifie-les sur ta facture.
