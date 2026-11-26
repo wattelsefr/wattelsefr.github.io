@@ -9,6 +9,18 @@
  <itunes:author>Watt Else ?</itunes:author><itunes:owner><itunes:name>Watt Else ?</itunes:name><itunes:email>wattelseproduction.studio@gmail.com</itunes:email></itunes:owner>
  <itunes:image href="https://wattelse.pages.dev/podcast/pochette.jpg"/><itunes:category text="Education"/><itunes:category text="Leisure"><itunes:category text="Home &amp; Garden"/></itunes:category>
  <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
+  <item><title>Box internet ou Lave-linge : lequel coûte le plus cher par an ?</title><itunes:title>Box internet ou Lave-linge : lequel coûte le plus cher par an ?</itunes:title><itunes:episode>11</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+   <description>Consommation annuelle médiane (ADEME) × tarif réglementé Base 0.2001 €/kWh (CRE) : Box internet 15 €, Lave-linge 13 €.
+
+Sources :
+• ADEME (Licence Ouverte) et CRE (open data) (01/08/2026) : https://data.ademe.fr/
+Musique : « Fluffing a Duck » Kevin MacLeod (incompetech.com) — Licence CC BY 4.0 : creativecommons.org/licenses/by/4.0/
+Icônes : Fluent Emoji (Microsoft, MIT).
+
+La vidéo : https://youtu.be/o81qKXooTL4</description><content:encoded><![CDATA[<p>Consommation annuelle médiane (ADEME) × tarif réglementé Base 0.2001 €/kWh (CRE) : Box internet 15 €, Lave-linge 13 €.</p><p>Icônes : Fluent Emoji (Microsoft, MIT).</p><p>🎬 La vidéo : <a href="https://youtu.be/o81qKXooTL4">https://youtu.be/o81qKXooTL4</a><br>📖 Explications, sources et transcription : <a href="https://wattelse.pages.dev/videos/box-internet-ou-lave-linge-lequel-coute-le-plus-cher-par-an.html">wattelse.pages.dev</a><br>⚡ La météo du courant chaque soir : <a href="https://t.me/wattelsefr">t.me/wattelsefr</a></p>]]></content:encoded>
+   <enclosure url="https://wattelse.pages.dev/podcast/episodes/short_devine-2026-11-22-3.mp3" length="214177" type="audio/mpeg"/>
+   <guid isPermaLink="false">wattelse-151</guid><pubDate>Thu, 26 Nov 2026 11:30:42 +0000</pubDate>
+   <itunes:duration>00:00:17</itunes:duration><itunes:explicit>false</itunes:explicit><link>https://youtu.be/o81qKXooTL4</link><podcast:transcript url="https://wattelse.pages.dev/podcast/episodes/short_devine-2026-11-22-3.vtt" type="text/vtt" language="fr"/></item>
   <item><title>Facture d&#x27;électricité : environ 190 € avant d&#x27;allumer</title><itunes:title>Facture d&#x27;électricité : environ 190 € avant d&#x27;allumer</itunes:title><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType>
    <description>Ta facture d&#x27;électricité, c&#x27;est deux parts : l&#x27;abonnement (environ 190 € par an au tarif réglementé Base 6 kVA, payé même en vacances) et la consommation (2 926 kWh, la médiane mesurée par l&#x27;ADEME, × 0,2001 € = environ 585 € par an). Taxes comprises : environ 776 € par an, dont à peu près un tiers de taxes et contributions.
 Ce soir : sors ta dernière facture, entoure la puissance en kVA (la puissance souscrite, dont dépend le prix de l&#x27;abonnement), le prix du kWh et les kWh consommés. Divise le total par les kWh : c&#x27;est ton vrai prix au kWh, abonnement compris.
